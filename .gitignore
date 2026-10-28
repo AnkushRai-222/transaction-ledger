@@ -1,0 +1,4 @@
+transaction_ledger/
+node_modules/
+.env
+*.log
